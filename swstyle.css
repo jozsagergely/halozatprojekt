@@ -1,0 +1,17 @@
+body{
+    background-image: url('swhatter.png');
+}
+
+h1{
+    text-decoration: underline;
+  
+}
+
+*{
+    color:rgb(187, 100, 18);
+    font-family: Monospace;
+}
+
+p{
+    font-size: 20px;;
+}
