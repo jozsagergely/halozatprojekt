@@ -1,4 +1,26 @@
 body{
     background-image: url('hatter.png');
+   
     
 }
+
+#sw{
+    width: 700px;
+    border-radius: 200px;
+}
+
+#ro{
+    border-radius: 200px;
+    position: absolute;
+    right: 100px;
+}
+.row{
+
+    margin: 110px;
+    
+}
+
+h1{
+    text-align: center;
+}
+
