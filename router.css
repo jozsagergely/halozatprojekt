@@ -1,6 +1,7 @@
 body{
 
     background-image:url('routerhatter.png');
+
     
 
 }
@@ -11,5 +12,12 @@ h1{
     text-align:center;
     font-size:40px;
     text-decoration:underline;
+    font-family:monospace;
 }
+p{
+    color:#87ceeb;
+    font-size:20px;
 
+
+font-family:monospace;
+}
