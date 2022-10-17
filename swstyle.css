@@ -4,11 +4,13 @@ body{
 
 h1{
     text-decoration: underline;
-  font-size: 40px;
+    font-size: 40px;
+    color:rgb(187, 100, 18);
+    text-align: center;
 }
 
 *{
-    color:rgb(187, 100, 18);
+    color:rgb(230, 197, 10);
     font-family: Monospace;
 }
 
@@ -21,3 +23,15 @@ p{
     width: 600px;
 }
 
+#feladat{
+    color:rgb(230, 197, 10);
+}
+
+li{
+    font-size: 20px;
+}
+
+#swmuk{
+    float:right;
+    width: 200px;
+}
