@@ -4,7 +4,7 @@ body{
     
 }
 
-#sw{
+.sw{
     width: 700px;
     border-radius: 200px;
     box-shadow: 10px 10px 10px rgb(38, 134, 199) ;
@@ -13,8 +13,28 @@ body{
 }
 
 
+.swap img:last-child{display:none}
+.swap:hover img:first-child{
+    display:none;
+    box-shadow: 10px 10px 10px rgb(230, 191, 19) ;
+                                    
+}
+.swap:hover img:last-child{
+    box-shadow: 10px 10px 10px rgb(230, 191, 19) ;
+    display:inline-block}
 
 
+
+.swap2 img:last-child{display:none}
+.swap2:hover img:first-child{
+    display:none;
+     box-shadow: 10px 10px 10px rgb(19, 198, 230) ;
+}
+
+.swap2:hover img:last-child{
+box-shadow: 10px 10px 10px rgb(19, 181, 230) ;
+display:inline-block}
+    
 #ro{
     border-radius: 200px;
     position: absolute;
@@ -25,6 +45,10 @@ body{
 
     margin: 110px;
     
+}
+
+#ro:hover{
+    box-shadow: 10px 10px 10px rgb(19, 181, 230) ;
 }
 
 h1{
