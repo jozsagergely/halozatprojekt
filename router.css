@@ -1,6 +1,9 @@
 body{
 
     background-image:url('routerhatter.png');
+    position: absolute;
+    left:50px;
+    right:50px;
 
     
 
@@ -24,7 +27,9 @@ font-family:monospace;
 
 .regikep{
 
-    width:300px;
+    width:350px;
+    float:left;
+    margin-right: 50px;
     
 }
 h2{
