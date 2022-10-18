@@ -56,7 +56,7 @@ h1{
     font-family: Monospace;
     font-weight: bold;
     color:rgb(17, 197, 173);
-    
+    background-color:rgb(27, 66, 78);
 }
 
 h2{
@@ -82,7 +82,7 @@ h2{
 }
 
 #cimhatter{
-    background-color: rgb(27, 66, 78);
+   
     width: 500px;
     margin:auto;
     border-radius: 20px;
