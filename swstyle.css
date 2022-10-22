@@ -1,8 +1,8 @@
 body{
     background-image: url('swhatter.png');
-    position: absolute;
-    left:50px;
-    right: 50px;
+    padding: 20px;
+   
+   
 
 }
 
@@ -50,4 +50,52 @@ li{
 
 #focim{
     color:rgb(187, 100, 18);
+}
+
+
+
+.felsorol{
+    background-color: rgb(61, 60, 60);
+    opacity: 0.8;
+    width: 900px;
+    border-radius: 10px;
+
+}
+
+.right{
+    position: absolute;
+    top: 20px;
+    right: 200px;
+}
+
+#video{
+    background-color: rgb(61, 60, 60);
+    opacity: 0.8;
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+video{
+    position: absolute;
+    top: 60px;
+}
+
+#muk{
+    font-size: 30px;
+    text-align: center;
+}
+
+#kep{
+    position: absolute;
+    top: 335px;
+    background-color: rgb(61, 60, 60);
+    opacity: 0.8;
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
+}
+
+h2{
+    border-top:1px solid rgb(156, 156, 156) ;
 }
